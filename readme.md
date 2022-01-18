@@ -10,7 +10,7 @@ Change the "client_id" variable to your Application ID
 client_id = "Your Application ID"
 ```
 
-## Example :camera_with_flash:
+## Example 📍
 
 <div>
     <p>Examples of how the script works :D</p>
