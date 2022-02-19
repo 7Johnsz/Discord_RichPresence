@@ -19,4 +19,4 @@ client_id = "Your Application ID"
 
 ## License
 
-API User Create is released under [the MIT License](LICENSE). Check [LICENSE](LICENSE) file for more information.
+Rich Presence is released under [the MIT License](LICENSE). Check [LICENSE](LICENSE) file for more information.
